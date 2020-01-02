@@ -39,7 +39,21 @@
         <link rel="stylesheet" href="public/css/main.css">
 
 		<!-- Modernizer Script for old Browsers -->
-        <script src="public/js/modernizr-2.6.2.min.js"></script>
+		<script src="public/js/modernizr-2.6.2.min.js"></script>
+		
+		<!--Start chat of Tawk.to-->
+		<script type="text/javascript">
+		var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+		(function(){
+		var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+		s1.async=true;
+		s1.src='https://embed.tawk.to/5e0d63ca7e39ea1242a2a0c9/default';
+		s1.charset='UTF-8';
+		s1.setAttribute('crossorigin','*');
+		s0.parentNode.insertBefore(s1,s0);
+		})();
+		</script>
+		<!--End chat of Tawk.to-->
 
     </head>
 	
