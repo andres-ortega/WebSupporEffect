@@ -21,10 +21,12 @@
 		<!-- CSS
 		================================================== -->
 		
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 		
 		<!-- Fontawesome Icon font -->
         <link rel="stylesheet" href="public/css/font-awesome.min.css">
+		<!--Icons Salomon-->
+		<link rel="stylesheet" href="public/Iconos_Salomon/style.css">
 		<!-- bootstrap.min -->
         <link rel="stylesheet" href="public/css/jquery.fancybox.css">
 		<!-- bootstrap.min -->
@@ -355,7 +357,7 @@
 							
 							<ul class="social-button">
 								<li class="wow animated zoomIn"><a href="https://www.facebook.com/Support-Effect-114457839992673/"><i class="fa fa-facebook-square fa-2x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="https://wa.me/573045699281"><i class="fa fa-comment fa-2x"></i></a></li>
+								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="https://wa.me/573045699281"><i class="icon-whatsapp fa-2x"></i></a></li>
 								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="https://www.instagram.com/supporteffect/"><i class="fa  fa-instagram fa-2x"></i></a></li>							
 							</ul>
 							
@@ -426,12 +428,13 @@
 						<div class="footer-social">
 							<ul>
 								<li class="wow animated zoomIn"><a href="https://www.facebook.com/Support-Effect-114457839992673/"><i class="fa fa-facebook-square fa-3x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="https://wa.me/573045699281"><i class="fa fa-comment fa-3x"></i></a></li>
+								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="https://wa.me/573045699281"><i class="icon-whatsapp fa-3x"></i></a></li>
 								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="https://www.instagram.com/supporteffect/"><i class="fa fa-instagram fa-3x"></i></a></li>
 							</ul>
 						</div>
 						
 						<p>Copyright &copy; 2019 Diseñado y Desarrollado por Support Effect. </p>
+						<h3><span class="icon-sphere"></span> www.facturatech.co <br></h3>
 					</div>
 				</div>
 			</div>
@@ -448,7 +451,7 @@
 		<!-- jquery.fancybox.pack -->
         <script src="public/js/jquery.fancybox.pack.js"></script>
 		<!-- Google Map API -->
-		<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+		<script src="https://maps.google.com/maps/api/js?sensor=false"></script>
 		<!-- Owl Carousel -->
         <script src="public/js/owl.carousel.min.js"></script>
         <!-- jquery easing -->
