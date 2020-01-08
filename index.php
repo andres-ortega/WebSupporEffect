@@ -379,20 +379,20 @@
 						
 						
 						<div class="col-md-7 contact-form wow animated fadeInLeft">
-							<form action="procesar.php" method="post">
+							<form action="enviar.php" method="post">
 								<div class="input-field">
-									<input type="text" name="name" class="form-control" placeholder="Nombre...">
+									<input type="text" name="Nombre" class="form-control" placeholder="Nombre...">
 								</div>
 								<div class="input-field">
-									<input type="email" name="email" class="form-control" placeholder="Email...">
+									<input type="email" name="Email" class="form-control" placeholder="Email...">
 								</div>
 								<div class="input-field">
-									<input type="text" name="subject" class="form-control" placeholder="Asunto...">
+									<input type="text" name="Asunto" class="form-control" placeholder="Asunto...">
 								</div>
 								<div class="input-field">
-									<textarea name="message" class="form-control" placeholder="Mensaje..."></textarea>
+									<textarea name="Mensaje" class="form-control" placeholder="Mensaje..."></textarea>
 								</div>
-						       	<button type="submit" name="enviar" id="submit" class="btn btn-blue btn-effect">Enviar</button>
+						       	<button type="submit" id="submit" class="btn btn-blue btn-effect">Enviar</button>
 							</form>
 						</div>
 						
