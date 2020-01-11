@@ -9,7 +9,7 @@
         <meta charset="utf-8">
 		<!-- Always force latest IE rendering engine or request Chrome Frame -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Support Effect</title>		
+        <title>Support</title>		
 		<!-- Meta Description -->
         <meta name="description" content="Support Effect">
         <meta name="keywords" content="programacion, pagina web, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">

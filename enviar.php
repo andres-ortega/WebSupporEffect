@@ -18,7 +18,7 @@ echo "<script>alert('Los campos marcados con * son obligatorios');location.href 
 
     $mail->From     = $Email;
     $mail->FromName = $Nombre; 
-    $mail->AddAddress("suppeffect01@gmail.com"); // Dirección a la que llegaran los mensajes.
+    $mail->AddAddress("andres33ortegacamacho@gmail.com"); // Dirección a la que llegaran los mensajes.
 
 // Aquí van los datos que apareceran en el correo que reciba
 
@@ -29,6 +29,7 @@ echo "<script>alert('Los campos marcados con * son obligatorios');location.href 
     "Asunto: $Subject \n <br/>". //Asunto del usuario
     "Email: $Email \n<br />".    // Email del usuario
     "Mensaje: $Mensaje \n<br />"; // Mensaje del usuario
+    
 
 // Datos del servidor SMTP, podemos usar el de Google, Outlook, etc...
 
